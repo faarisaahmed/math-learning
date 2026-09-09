@@ -1,0 +1,12 @@
+# Generated worksheet books and answer keys — built by build.py, attached to releases
+*.pdf
+
+# preview.py output
+preview-*.png
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+.DS_Store

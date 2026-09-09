@@ -1,0 +1,4 @@
+-r requirements.txt
+
+# optional: preview.py renders pages to PNG when this is installed
+pymupdf>=1.24
